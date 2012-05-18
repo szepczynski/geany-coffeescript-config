@@ -1,0 +1,2 @@
+Put `filetypes.coffeescript` into /usr/share/geany
+Put `coffee_script.lang` into ~/.local/share/gtksourceview-2.0/language-specs for GNOME2 or /usr/share/gtksourceview-3.0/language-specs for GNOME Shell
